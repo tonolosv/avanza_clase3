@@ -29,7 +29,7 @@ public class HMS {
         if (H>=0 && H<24 && M>=0 && M<60 && S>=0 && S<60) 
             System.out.println("Hora correcta");
             else
-            System.out.println("Hora incorrecta");
+            System.out.println("lo sentimos la hora es incorrecta");
         System.out.println("La hora ingresada es: " + H + ":" + M + ":" + S);
         }
 }
